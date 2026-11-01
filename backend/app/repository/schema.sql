@@ -1,0 +1,2 @@
+-- TODO: CREATE TABLE statements for users, stations, officers, complaints, cases, hearings,
+-- orders, judgments, case_links, lawyers, case_lawyers, diary, audit_log, config
